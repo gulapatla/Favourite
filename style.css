@@ -1,0 +1,66 @@
+body
+{
+   background: linear-gradiant( #E1BEE7 0%,#90CAF9 100%);
+   
+   
+
+}
+.hello
+{
+   text-decoration: underline;
+}
+.nunu
+{
+   background-color: aqua;
+}
+.menu
+{
+   list-style:none;
+   font-family: cursive;
+   float: right;
+   top: 10px;
+   right: 30px;
+   cursor: pointer;
+   color: black;
+   z-index: 10;
+   position: absolute;
+}
+.links
+{
+   float: left;
+   color: #fff;
+   padding-top: 5px;
+   padding-left: 9px;
+   padding-right: 9px;
+   padding-bottom: 5px;
+   font-family: fantasy;
+   font-size: 20px;
+
+}
+.links:hover{
+   background-color: dodgerblue;
+}
+.hulu
+{
+   background-color:khaki;
+}
+.lulu
+{
+   color:lightcoral;
+   font-family: cursive;
+   text-decoration: underline;
+}
+.lala
+{
+   background-color:lightslategray;
+}
+.lolo
+{
+   color: lightskyblue;
+   font-family: cursive;
+   text-decoration: underline;
+}
+.halu
+{
+   background-color:mediumblue;
+}
